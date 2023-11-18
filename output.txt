@@ -1,0 +1,4 @@
+a, axis = 1
+w, axis = 1
+a, axis = 0
+w, axis = 0
